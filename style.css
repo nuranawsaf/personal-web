@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.name-style{
+    color: rgb(226, 39, 101);
+    font-size: 65px;
+    }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    display: inline-block;
+    margin-top: 85px;
+}
+#align{
+    margin-left: 10%;
+}
+.half-width img{
+    width: 100%;
+    }
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+}
+.top-margin{
+    margin-left: 100px;
+}
+section{
+    height: 500px;
+    padding-bottom: 180px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(145deg, rgb(226, 39, 101), #fc6f56);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+}
+#link-margin{
+    margin-left: 100px;
+}
+.bio-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-align{
+    display: inline-block;
+    margin-top: 90px;
+    margin-left: 550px;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+}
+.latest-work img{
+    width: 25%;
+    float: left;
+    margin: 20px;
+    display: block;
+    margin-top: 70px;
+    margin-left: 75px;
+}
+.last-banner{
+    background-image: url("images/footer-bg.png");
+    width: 100%;
+    background-size: cover;
+    background-position: top;
+}
+.last-part{
+
+    text-align: center;
+    width: 500px;
+    margin-left: 425px;
+}
+#ceo-align{
+    margin-top: -15px;
+}
+#footer-button{
+    text-align: center;
+    color: white;
+    margin-top: 70px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 5px;
+    padding: 8px;
+    margin-bottom: 50px;
+    background-image: linear-gradient(45deg, #da2d67, #e75555);
+}
+.last-style{
+      font-size: 20px;
+      margin-top: -5px;
+}
+.ending-text{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 99px;
+}
+#footer-button p{
+    font-size: 12px;
+    color: white;
+    margin-top: 10px;
